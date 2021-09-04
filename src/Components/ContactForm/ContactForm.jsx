@@ -9,13 +9,11 @@ export default function ContactForm(options) {
   const formNumberId = uuidv4();
 
   const handleChangeName = event => {
-    const type = event.currentTarget.value;
-    setName(type);
+    setName(event.currentTarget.value);
   };
 
   const handleChangeNumber = event => {
-    const value = event.currentTarget.value;
-    setNumber(value);
+    setNumber(event.currentTarget.value);
   };
 
   const resetForm = () => {

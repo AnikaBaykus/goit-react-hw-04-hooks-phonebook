@@ -1,2 +1,0 @@
-(this["webpackJsonphw-04-hooks-phonebook"]=this["webpackJsonphw-04-hooks-phonebook"]||[]).push([[0],{11:function(n,o,e){"use strict";e.r(o);var t=e(1),c=e.n(t),s=e(3),r=e.n(s),h=(e(8),e(9),e(0));var i=function(){return Object(h.jsx)("div",{className:"App",children:"HELLO"})};r.a.render(Object(h.jsx)(c.a.StrictMode,{children:Object(h.jsx)(i,{})}),document.getElementById("root"))},8:function(n,o,e){},9:function(n,o,e){}},[[11,1,2]]]);
-//# sourceMappingURL=main.d9704b3c.chunk.js.map
